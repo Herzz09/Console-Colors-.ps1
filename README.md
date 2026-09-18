@@ -1,7 +1,7 @@
 # 🎨 Console-Colors-PowerShell
 
 **Dev:** Herzz09  
-**Date:** 18/09/2026  
+**Date:** 06/04/2026  
 **Name:** Console-Colors.ps1
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?logo=powershell&logoColor=white)
@@ -173,8 +173,15 @@ The swatches and text are drawn on top of your host's own background. If a color
 Console-Colors-Powershell/
 ├── Console-Colors.ps1   # the script
 ├── .gitattributes
+├── LICENSE
 └── README.md
 ```
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -183,7 +190,3 @@ Console-Colors-Powershell/
 **Herzz09** — [github.com/Herzz09](https://github.com/Herzz09)
 
 Feel free to open an [issue](https://github.com/Herzz09/Console-Colors-Powershell/issues) with suggestions or improvements. ⭐ If this was useful, consider starring the repo!
-
-**Herzz09** — [github.com/Herzz09](https://github.com/Herzz09)
-
-Feel free to open an [issue](https://github.com/Herzz09/Console-Colors-.ps1/issues) with suggestions or improvements. ⭐ If this was useful, consider starring the repo!
