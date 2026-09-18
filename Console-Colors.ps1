@@ -15,7 +15,10 @@ cls
  
 #######################################################################
 if (-not $psISE) {
-    Write-Host "ERROR: This script cannot be run from the console. Opening in PowerShell ISE..." -ForegroundColor Red
+    Write-Host ""
+    Write-Host "ERROR: This script cannot be run from the console. " -ForegroundColor Red -NoNewline
+    Write-Host "Opening in PowerShell ISE..." -ForegroundColor Green
+    Start-Sleep -Seconds 5
     Start-Process powershell_ise.exe -ArgumentList "`"$PSCommandPath`""
     exit
 }
