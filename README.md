@@ -10,10 +10,7 @@ A tiny PowerShell script that displays **every console color available in PowerS
 
 ## 📸 Preview
 
-<!-- Add your screenshot at docs/preview.png and keep the line below -->
-![Console Colors preview](docs/preview.png)
-
----
+<img width="211" height="275" alt="Image" src="https://github.com/user-attachments/assets/d15670d4-e363-4619-80f6-ea352c805664" />
 
 ## ✨ Features
 
