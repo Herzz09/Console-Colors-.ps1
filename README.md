@@ -1,4 +1,8 @@
-# 🎨 Console-Colors.ps1
+# 🎨 Console-Colors-PowerShell
+
+**Dev:** Herzz09  
+**Date:** 18/09/2026  
+**Name:** Console-Colors.ps1
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?logo=powershell&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
