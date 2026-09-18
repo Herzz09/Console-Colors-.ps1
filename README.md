@@ -14,7 +14,7 @@ A tiny PowerShell script that displays **every console color available in PowerS
 
 ## 📸 Preview
 
-<img width="211" height="275" alt="Image" src="https://github.com/user-attachments/assets/d15670d4-e363-4619-80f6-ea352c805664" />
+<img width="211" height="275" alt="Console Colors preview" src="https://github.com/user-attachments/assets/d15670d4-e363-4619-80f6-ea352c805664" />
 
 ---
 
@@ -77,7 +77,7 @@ Download `Console-Colors.ps1` directly from the repository page (**Code → Down
 .\Console-Colors.ps1
 ```
 
-When the script detects it is **not** running inside ISE, it shows an error message, opens itself in PowerShell ISE and exits. Press **F5** in ISE to see the colors.
+When the script detects it is **not** running inside ISE, it shows an error message, waits a few seconds, opens itself in PowerShell ISE and exits. Press **F5** in ISE to see the colors.
 
 ---
 
@@ -102,6 +102,8 @@ Console Colors Powershell:
         => Magenta
         => Yellow
         => White
+
+Press Enter to continue...:
 ```
 
 *(In the real output, each blank area is painted with its color and each name is written in that same color.)*
@@ -168,7 +170,7 @@ The swatches and text are drawn on top of your host's own background. If a color
 ## 📁 Project structure
 
 ```text
-Console-Colors-.ps1/
+Console-Colors-Powershell/
 ├── Console-Colors.ps1   # the script
 ├── .gitattributes
 └── README.md
@@ -177,6 +179,10 @@ Console-Colors-.ps1/
 ---
 
 ## 👤 Author
+
+**Herzz09** — [github.com/Herzz09](https://github.com/Herzz09)
+
+Feel free to open an [issue](https://github.com/Herzz09/Console-Colors-Powershell/issues) with suggestions or improvements. ⭐ If this was useful, consider starring the repo!
 
 **Herzz09** — [github.com/Herzz09](https://github.com/Herzz09)
 
