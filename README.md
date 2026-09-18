@@ -12,6 +12,8 @@ A tiny PowerShell script that displays **every console color available in PowerS
 
 <img width="211" height="275" alt="Image" src="https://github.com/user-attachments/assets/d15670d4-e363-4619-80f6-ea352c805664" />
 
+---
+
 ## ✨ Features
 
 - Lists all **16 colors** from the `[System.ConsoleColor]` enumeration
@@ -35,14 +37,26 @@ A tiny PowerShell script that displays **every console color available in PowerS
 
 ## 🚀 Installation
 
-Clone the repository:
+**Option 1 — Git installed**
+
+If you have Git installed, open a terminal and run:
 
 ```powershell
-git clone https://github.com/Herzz09/Console-Colors-.ps1.git
-cd Console-Colors-PowerShell
+git clone https://github.com/Herzz09/Console-Colors-Powershell.git
+cd Console-Colors-Powershell
 ```
 
-Or simply download `Console-Colors.ps1` directly from the repository page.
+**Option 2 — GitHub Desktop**
+
+If you have GitHub Desktop installed:
+
+1. Open GitHub Desktop and go to **File → Clone repository...**
+2. Select the **URL** tab and paste `https://github.com/Herzz09/Console-Colors-Powershell`
+3. Choose the local folder and click **Clone**
+
+**Option 3 — Manual download**
+
+Download `Console-Colors.ps1` directly from the repository page (**Code → Download ZIP**, or open the file and click **Download raw file**).
 
 ---
 
