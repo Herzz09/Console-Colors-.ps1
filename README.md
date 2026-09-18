@@ -39,7 +39,7 @@ Clone the repository:
 
 ```powershell
 git clone https://github.com/Herzz09/Console-Colors-.ps1.git
-cd Console-Colors-.ps1
+cd Console-Colors-PowerShell
 ```
 
 Or simply download `Console-Colors.ps1` directly from the repository page.
